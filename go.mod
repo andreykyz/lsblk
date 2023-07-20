@@ -1,4 +1,4 @@
-module github.com/cedarwu/lsblk
+module github.com/andreykyz/lsblk
 
 go 1.16
 
